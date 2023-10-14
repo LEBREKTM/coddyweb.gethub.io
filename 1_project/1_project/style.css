@@ -1,0 +1,30 @@
+        p {
+			color:purple;
+
+			font-size: 90px;
+			margin: 100px ;
+		}
+		a {
+			text-decoration: none;
+			font-size:100px;
+			color:red;
+		}
+		div{
+            width:70% ;
+			margin: auto;
+			background-color:#fff5E0;
+			box-shadow: 0 0 10px 1px rgba(0,0,0,0.2)
+		}
+		h1{
+			font-size: 150px;
+			color: orange;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+			display: block;
+		}
+		body {
+background-color:#fff5E0;
+		}
+				
